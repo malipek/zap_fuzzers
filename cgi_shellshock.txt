@@ -1,0 +1,2 @@
+() { :;}; echo; echo; /bin/bash -c 'echo test'
+() { :;}; /bin/bash -c 'echo test'
